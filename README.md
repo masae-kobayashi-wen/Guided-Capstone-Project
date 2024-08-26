@@ -1,1 +1,3 @@
-# Capstone-Project-2020
+# Guided-Capstone-Project
+Springboard guided capstone projects
+August 2020
